@@ -1,0 +1,8 @@
+# Hyatt-Hotel-Recommendation
+This is a data science project on hyatt hotel recommendation analysis to analyse the factors that favour good customer rating and vice versa.
+I started of with first subsetting the data because it was a vast file with more than 200 columns and 1 million rows.I decided to go ahead with
+quarter analysis for USA Hyatt Hotels and later narrowed down to california. The KPI's for my dataset were Likelihood to Recommend(on scale
+of 1-7) and NPS Type(Promoters or Detractors). I considered location, guest country, gender, age range, purpose of visit, member class as some
+of the major columns for my analysis. I performed exploratory analysis on them and visualised the same using ggplot. I in the end performed
+association rule mining to see how the facilities provided by the hotel support NPS Type.
+So all in one this R file will give you some insight on data wrangling, visualizing, mining and descriptive analysis.
