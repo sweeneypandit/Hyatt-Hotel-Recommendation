@@ -6,3 +6,6 @@ of 1-7) and NPS Type(Promoters or Detractors). I considered location, guest coun
 of the major columns for my analysis. I performed exploratory analysis on them and visualised the same using ggplot. I in the end performed
 association rule mining to see how the facilities provided by the hotel support NPS Type.
 So all in one this R file will give you some insight on data wrangling, visualizing, mining and descriptive analysis.
+
+****** You would need to have R studio installed in the system to run this script****************************************
+Thank you
